@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/an-empirical-analysis-of-natural-and-cyclical-unemployment-at-the-provincial-level-in-spain/","title":"An Empirical Analysis of Natural and Cyclical Unemployment at the Provincial Level in Spain","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/literature-notes/an-empirical-analysis-of-natural-and-cyclical-unemployment-at-the-provincial-level-in-spain/","title":"An Empirical Analysis of Natural and Cyclical Unemployment at the Provincial Level in Spain"}
 ---
 
 # [An Empirical Analysis of Natural and Cyclical Unemployment at the Provincial Level in Spain](zotero://select/library/items/QWEVTD96)
