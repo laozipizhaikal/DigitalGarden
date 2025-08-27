@@ -24,8 +24,8 @@ Welcome to my [Digital Garden.](https://web.archive.org/web/20221112021127/https
 { .block-language-dataview}
 
 
-> [!bug]
-> Table below is created with Dataview Plugin, which is currently not rendering properly online. Please search for the note title or find them in the sidebar.
+ [!bug]
+ Table below is created with Dataview Plugin, which is currently not rendering properly online. Please search for the note title or find them in the sidebar.
 
 ## Sources
 
